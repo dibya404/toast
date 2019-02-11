@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Toast</string>
+    <string name="Button_Name">Next</string>
+    <string name="Button_Name_2">Previous</string>
+</resources>
